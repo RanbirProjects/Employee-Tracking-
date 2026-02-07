@@ -15,8 +15,6 @@ Leave tracking
 ![B073B4F0-6F3E-4E8D-8DF3-7E1CAE9E5112](https://github.com/user-attachments/assets/69dde130-b1f4-4839-8b87-711d4202f0f7)
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1HXJ66kEzxUm3DpmRT3Dxva5qCdeQttXP
-
 ## Run Locally
 
 **Prerequisites:**  Node.js
