@@ -1,6 +1,6 @@
 ## Website Screenshot 
 
-| Login | Dashboard |
+| Login | Dashboard | 
 |---|---|
 | ![Login](https://github.com/user-attachments/assets/8449c928-bcff-4e99-b5b6-1452a7eaa391) | ![Dashboard](https://github.com/user-attachments/assets/316b5d96-50d9-4161-a4e4-331a5a28f435) |
 
